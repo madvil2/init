@@ -1,0 +1,2 @@
+traceroute -q 1 -w 1 slash16.org
+192.168.2.9
