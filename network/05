@@ -1,1 +1,1 @@
-nslookup google.com | grep Address
+nslookup slash16.org | grep Address
